@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Jorge Santiago Mendoza</title>
+  <desc id="desc">Business Engineer focused on SaaS implementation, operations and digital delivery</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07111f"/><stop offset="1" stop-color="#10283a"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#4fe1a1" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#bg)"/><rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+  <rect x="70" y="62" width="7" height="176" rx="3.5" fill="#4fe1a1"/>
+  <text x="110" y="130" fill="#f4f7fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="52" font-weight="700">Jorge Santiago Mendoza</text>
+  <text x="112" y="180" fill="#4fe1a1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="600">BUSINESS ENGINEER · SAAS IMPLEMENTATION · OPERATIONS</text>
+  <text x="112" y="222" fill="#a8b7c8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20">From operational friction to reliable, auditable software.</text>
+  <circle cx="1070" cy="150" r="76" fill="none" stroke="#4fe1a1" stroke-opacity=".18" stroke-width="2"/><circle cx="1070" cy="150" r="48" fill="none" stroke="#4fe1a1" stroke-opacity=".35" stroke-width="2"/><circle cx="1070" cy="150" r="8" fill="#4fe1a1"/>
+</svg>
+
