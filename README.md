@@ -1,46 +1,46 @@
-# Jorge Santiago Mendoza
+![Jorge Santiago Mendoza — SaaS Implementation, Operations and Digital Delivery](./assets/profile-banner.svg)
 
-**Business Engineer · SaaS Implementation · Operations & Digital Delivery**
+## I turn operational friction into reliable software
 
-I build practical systems where software, operational workflows and business outcomes meet. My background spans Salesforce delivery in banking and telecommunications, Agile coordination, process improvement and hands-on product development with Python and JavaScript.
+Business Engineer with experience across **Salesforce delivery, banking, telecommunications, Agile coordination and operational improvement**. I build practical systems with explicit workflows, testable business rules and documentation that survives handoffs.
 
-Based in Peru · Open to remote and hybrid roles
+`Peru` · `Open to remote and hybrid roles` · `English: working toward C1`
 
-## Selected work
+## Proof of work
 
-### [SaaS Implementation Operations Lab](https://github.com/Jsantiagom11/saas-implementation-ops-lab)
+| Project | Operational problem | Engineering evidence |
+|---|---|---|
+| **[SaaS Implementation Operations Lab](https://github.com/Jsantiagom11/saas-implementation-ops-lab)** | Fragmented customer onboarding, unclear delivery gates and weak accountability | FastAPI, Pydantic, SQLite, audit trail, governed transitions, strict typing and integration tests |
+| **[Rumi Wawqi POS](https://github.com/Jsantiagom11/rumi-wawqi-pos)** | Weekend and event service without reliable connectivity or server infrastructure | Offline-first JavaScript, table lifecycle, kitchen dispatch, stock reservation, cash controls and regression tests |
 
-An operational control plane for SaaS customer implementations. It models governed onboarding stages, delivery risk, audit trails and portfolio metrics using FastAPI, Pydantic and SQLite.
+These are deliberately different systems: one demonstrates **SaaS implementation governance**; the other demonstrates **real operational product ownership under infrastructure constraints**.
 
-**Signals:** SaaS implementation · workflow design · API engineering · delivery governance · automated testing
+## Operating range
 
-### [Rumi Wawqi POS](https://github.com/Jsantiagom11/rumi-wawqi-pos)
+```text
+Business problem → workflow model → control points → implementation → tests → operational feedback
+```
 
-An offline-first restaurant operations system built for real weekend service and high-volume events in Caraz. It coordinates tables, kitchen dispatch, inventory reservation, cash history and non-destructive shift backups on an iPad without a server.
-
-**Signals:** product ownership · offline architecture · operational resilience · inventory control · JavaScript
-
-## Experience lens
-
-| Area | What I bring |
+| Delivery and domain | Engineering and tooling |
 |---|---|
-| SaaS and CRM | Salesforce implementation experience across banking, telecommunications and hospitality contexts |
-| Delivery | Agile execution, Scrum of Scrums, Kanban, stakeholder coordination and troubleshooting |
-| Operations | Workflow analysis, process controls, service bottlenecks and practical automation |
-| Engineering | Python 3.11+, FastAPI, SQL, HTML/JavaScript, Git, testing and reproducible environments |
-| Current direction | AI agents, quantitative finance, risk systems and applied automation |
+| SaaS/CRM implementation | Python 3.11+ · FastAPI · SQL |
+| Agile delivery and stakeholder coordination | HTML · JavaScript · offline-first systems |
+| Operations, service bottlenecks and controls | Git · pytest · mypy · Ruff · Node test runner |
+| Troubleshooting and workflow automation | APIs · data pipelines · reproducible environments |
 
-## How I work
+## What I optimize for
 
-- Translate ambiguous operational problems into explicit workflows and controls.
-- Prefer small, testable systems with clear business rules over feature-heavy demos.
-- Document architecture, trade-offs and failure modes so work remains auditable.
-- Build for real constraints: intermittent connectivity, limited infrastructure and operational pressure.
+- **Operational truth:** software should reflect how work actually happens.
+- **Traceability:** decisions, state changes and failures must be auditable.
+- **Resilience:** systems should degrade safely when connectivity or infrastructure fails.
+- **Economic value:** complexity must earn its maintenance cost.
 
-## Current focus
+## Current build direction
 
 - Task-specific AI agents and workflow automation
 - Quantitative finance, portfolio risk and decision systems
 - Reliable offline tools for restaurant and field operations
-- Progressing toward advanced professional English
+- Production-grade packaging, observability and continuous integration
+
+<sub>Every featured repository includes setup instructions, architecture decisions, tests and an explicit roadmap.</sub>
 
